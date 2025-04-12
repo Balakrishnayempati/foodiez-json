@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Ocean View Hotel",
+      "price": 3500,
+      "image_url": "https://example.com/images/oceanview.jpg",
+      "location": "Goa, India",
+      "owner": "Rahul Sharma",
+      "contact": "+91-9876543210",
+      "details": "A beautiful beachfront hotel with sea-facing rooms and top-class service."
+    },
+    {
+      "id": 2,
+      "name": "Mountain Bliss Resort",
+      "price": 2800,
+      "image_url": "https://example.com/images/mountainbliss.jpg",
+      "location": "Manali, Himachal Pradesh",
+      "owner": "Neha Verma",
+      "contact": "+91-9123456789",
+      "details": "A cozy mountain resort with snow views, bonfires, and indoor games."
+    },
+    {
+      "id": 3,
+      "name": "Cityscape Inn",
+      "price": 2100,
+      "image_url": "https://example.com/images/cityscape.jpg",
+      "location": "Bangalore, Karnataka",
+      "owner": "Amit Singh",
+      "contact": "+91-9000000000",
+      "details": "A modern hotel in the heart of the city with fast WiFi and cafe."
+    },
+    {
+      "id": 4,
+      "name": "Desert Dune Stay",
+      "price": 1800,
+      "image_url": "https://example.com/images/desertdune.jpg",
+      "location": "Jaisalmer, Rajasthan",
+      "owner": "Farhan Ali",
+      "contact": "+91-9988776655",
+      "details": "Stay in traditional huts with camel rides and folk performances."
+    },
+    {
+      "id": 5,
+      "name": "Green Valley Eco Resort",
+      "price": 3200,
+      "image_url": "https://example.com/images/greenvalley.jpg",
+      "location": "Wayanad, Kerala",
+      "owner": "Meera Nair",
+      "contact": "+91-9090909090",
+      "details": "Eco-friendly resort in the forest with treehouses and organic food."
+    },
+    {
+      "id": 6,
+      "name": "Lake Palace Retreat",
+      "price": 4200,
+      "image_url": "https://example.com/images/lakepalace.jpg",
+      "location": "Udaipur, Rajasthan",
+      "owner": "Devansh Rathore",
+      "contact": "+91-9112233445",
+      "details": "Luxury hotel floating on the lake with royal heritage rooms."
+    },
+    {
+      "id": 7,
+      "name": "Hilltop Heritage Inn",
+      "price": 2500,
+      "image_url": "https://example.com/images/hilltopheritage.jpg",
+      "location": "Shimla, Himachal Pradesh",
+      "owner": "Kavita Joshi",
+      "contact": "+91-8776655443",
+      "details": "Classic colonial-style hotel with valley views and vintage decor."
+    },
+    {
+      "id": 8,
+      "name": "Sunrise Residency",
+      "price": 1900,
+      "image_url": "https://example.com/images/sunriseresidency.jpg",
+      "location": "Chennai, Tamil Nadu",
+      "owner": "Rajiv Menon",
+      "contact": "+91-7008009001",
+      "details": "Clean and affordable hotel near the beach and marina mall."
+    },
+    {
+      "id": 9,
+      "name": "Blue Lagoon Resort",
+      "price": 3800,
+      "image_url": "https://example.com/images/bluelagoon.jpg",
+      "location": "Andaman Islands",
+      "owner": "Sneha Das",
+      "contact": "+91-8889997776",
+      "details": "Island resort with scuba diving, snorkeling, and beach cottages."
+    },
+    {
+      "id": 10,
+      "name": "Royal Orchid Palace",
+      "price": 4600,
+      "image_url": "https://example.com/images/royalorchid.jpg",
+      "location": "Mysore, Karnataka",
+      "owner": "Aditya Reddy",
+      "contact": "+91-8080808080",
+      "details": "5-star palace hotel with spa, pool, and traditional Mysore cuisine."
+    }
+  ]
+  
