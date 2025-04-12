@@ -1,4 +1,5 @@
-[
+{
+  "hotels": [
     {
       "id": 1,
       "name": "Ocean View Hotel",
@@ -100,4 +101,4 @@
       "details": "5-star palace hotel with spa, pool, and traditional Mysore cuisine."
     }
   ]
-  
+}
